@@ -12,7 +12,7 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <unistd.h>
-//for mac added theses lines to work
+//for mac added theses lines to work (im working on a mac not windows)
 typedef int SOCKET;
 #define INVALID_SOCKET (-1)
 #define SOCKET_ERROR   (-1)
